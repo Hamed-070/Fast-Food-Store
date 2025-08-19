@@ -5,7 +5,7 @@ A full-stack web application built with **React** (frontend) and **Django** (bac
 ---
 
 ## Preview 
-To see preview , follow the link : 
+To see Preview as a Video ( you have to download it , github does not show it ) , follow the link : 
 https://github.com/Hamed-070/Fast-Food-Store/blob/main/Demo.mp4
 
 ---
